@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 7fe7448b-91a0-7738-ed64-38a79fffe29d
 resourcetype: Document
 title: finalexam.pdf
 uid: 37748653-3ae7-a074-2120-8d68d80dc661

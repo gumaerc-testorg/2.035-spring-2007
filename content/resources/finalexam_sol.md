@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 7fe7448b-91a0-7738-ed64-38a79fffe29d
 resourcetype: Document
 title: finalexam_sol.pdf
 uid: c8cd18d5-776a-7266-058a-7202b97ebb9d
