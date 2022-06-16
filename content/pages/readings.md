@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information on the course text, further references,
+  and a calendar of lecture topics, readings, and practice problems.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
