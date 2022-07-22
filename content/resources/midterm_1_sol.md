@@ -5,6 +5,7 @@ file: /courses/2-035-special-topics-in-mathematics-with-applications-linear-alge
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm_1_sol.pdf
 uid: 372034a6-72aa-2e28-0e3d-2ba482406ab5
 ---
 This resource contains solutions to part 1 of the midterm exam.
-

@@ -5,6 +5,7 @@ file: /courses/2-035-special-topics-in-mathematics-with-applications-linear-alge
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: finalexam.pdf
 uid: 37748653-3ae7-a074-2120-8d68d80dc661
 ---
 This resource contains the final exam for the course.
-

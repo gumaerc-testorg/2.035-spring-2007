@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_dendrites2.jpg
 uid: 33b21c9e-18d7-1374-64c5-4380aa26e83f
 ---
 A computer simulation of multiple crystal structures predicted when rotating foreign particles are introduced during the growth process. Each crystal represents a separate crystal. (Image courtesy of NIST.)
-

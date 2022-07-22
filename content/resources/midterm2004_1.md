@@ -5,6 +5,7 @@ file: /courses/2-035-special-topics-in-mathematics-with-applications-linear-alge
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm2004_1.pdf
 uid: e4833108-d9bb-d848-651d-ddd5471cb586
 ---
 This resource contains a practice midterm from a previous year.
-
