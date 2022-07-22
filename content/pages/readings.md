@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains information on the course text, further references,
+  and a calendar of lecture topics, readings, and practice problems.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7a3d1668-92a8-f655-5bd8-be961c03c8dd
 ---
