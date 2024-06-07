@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a practice midterm from a previous year.
 file: /courses/2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007/47e91faaad3f33aa758a2ba1464021cb_midterm2004_2.pdf
+file_size: 103812
 file_type: application/pdf
 learning_resource_types:
 - Exams
