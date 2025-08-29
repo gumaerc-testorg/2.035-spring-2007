@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to part 1 of the midterm exam.
-file: /courses/2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007/372034a672aa2e280e3d2ba482406ab5_midterm_1_sol.pdf
+file: /ol-ocw-studio-app/courses/2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007/372034a672aa2e280e3d2ba482406ab5_midterm_1_sol.pdf
 file_size: 126534
 file_type: application/pdf
 learning_resource_types:
