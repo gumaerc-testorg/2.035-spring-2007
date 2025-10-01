@@ -16,7 +16,7 @@ Most of the readings and all practice problems are from the course text:
 
 Knowles, J. K. _Linear Vector Spaces and Cartesian Tensors_. New York, NY: Oxford University Press, 1998. ISBN: 9780195112542.
 
-Abeyaratne, Rohan. _A Brief Review of Some Mathematical Preliminaries_. Volume 1 in _[Lecture Notes on the Mechanics of Elastic Solids](http://web.mit.edu/abeyaratne/lecture_notes.html)_. \[Free e-book.\]
+Abeyaratne, Rohan. _A Brief Review of Some Mathematical Preliminaries_. Volume 1 in _{{% resource_link "853ce367-f52a-497e-81c7-6e51497cff00" "Lecture Notes on the Mechanics of Elastic Solids" %}}_. \[Free e-book.\]
 
 Further References
 ------------------
